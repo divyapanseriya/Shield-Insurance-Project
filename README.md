@@ -7,10 +7,13 @@ Project Overview:
 🔍 Tools: Utilizing in-depth data analysis and predictive analytics to tailor policy offerings based on customer preferences across demographics, geographic locations, and sales modes.
 
 Project Objectives:
+
 👥 Customer Segmentation in Insurance:
 ➡️ Identify crucial segments within the market to tailor policies and marketing strategies.
+
 🌍 Demographic and Geographic Trends:
 ➡️ Evaluate policy preferences and behavioral trends across different demographics and cities.
+
 🛒 Sales Modes:
 ➡️ Assess the effectiveness and customer preferences for online apps, offline agents, online websites, and direct offline sales.
 
